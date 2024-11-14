@@ -6,7 +6,8 @@
 .colorverde{background-color: green;}
 .colornaranja{background-color: orange;}
 .banner2{background-color: yellowgreen; width: 100%; height: 120px;}
-.menusuperior li{display: inline; padding: 5px; border-right: solid 2px black;}
+.menusuperior li{display: inline; padding: 5px; }
+.bordederecho li{border-right: solid 2px black;}
 .menusuperior{text-transform: uppercase; font-weight: bold; text-align: right; padding: 20px;}
 .menusuperior li a:hover{color: #e2430c; text-decoration: underline;}
 li a{text-decoration: none;}
